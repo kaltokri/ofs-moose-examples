@@ -10,4 +10,4 @@ fox:AddProtectedGroup( GROUP:FindByName("FOX_A10C_Protected") )
 
 -- Start missile trainer.
 fox:Start()
-MESSAGE:New( "FOX missle trainer started", 25, "INFO" ):ToAll():ToLog()
+MESSAGE:New( "FOX missile trainer started", 25, "INFO" ):ToAll():ToLog()
